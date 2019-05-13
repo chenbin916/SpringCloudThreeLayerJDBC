@@ -12,6 +12,7 @@ public class TestThreeLayerJdbcApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println("just test for use git by eclipse ");
+		System.out.println("just test for use git by github ");
 	}
 
 }
